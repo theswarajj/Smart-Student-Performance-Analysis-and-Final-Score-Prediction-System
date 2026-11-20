@@ -67,3 +67,13 @@ The compiled static assets will be output to the `dist/` directory.
 - **👩‍🏫 Teacher Portal**: Classroom roster, **Risk Board** highlighting at-risk students, behavioural score entry, marks recording, and remedial intervention tracker.
 - **👨‍👩‍👧 Parent Portal**: Plain-language student summary, attendance tracking, early warning notifications, and personalized action guides without machine-learning jargon.
 - **⚙️ Admin Portal**: System administration, user/class enrollment management, timetable publishing, audit log viewer, and **Model Retraining & Monitoring Console**.
+
+---
+
+## 👤 Author
+
+**Developed & Engineered by Swaraj Krishna P P**  
+*AI / ML Enthusiast & Computer Science and Engineering Graduate (Class of 2026)*  
+🎓 **APJ Abdul Kalam Technological University (KTU)**  
+📬 **Email**: [swrjkrishna@gmail.com](mailto:swrjkrishna@gmail.com)
+

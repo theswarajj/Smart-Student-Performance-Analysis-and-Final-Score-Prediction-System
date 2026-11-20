@@ -399,7 +399,11 @@ This repository has been configured with an optimized `.gitignore` to ensure a s
 
 ## 👤 Author & Acknowledgments
 
-**Developed by Anjali**  
-*Computer Science & Engineering*
+**Developed & Engineered by Swaraj Krishna P P**  
+*AI / ML Enthusiast & Computer Science and Engineering Graduate (Class of 2026)*  
+🎓 **APJ Abdul Kalam Technological University (KTU)**  
+📬 **Email**: [swrjkrishna@gmail.com](mailto:swrjkrishna@gmail.com)  
 
-*Special acknowledgment to the open-source community, the creators of the UCI Machine Learning Repository, and educational ERP paradigms that served as research inspiration for this project.*
+All conceptualization, full-stack architecture, machine learning modeling, and platform engineering credits for this project belong to **Swaraj Krishna P P**.
+
+*Special acknowledgment to the open-source community, the creators of the UCI Machine Learning Repository, and educational ERP paradigms (such as Linways AMS) that served as research inspiration for this project.*
